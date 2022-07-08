@@ -19,6 +19,8 @@ let pesoFloor = Math.floor(pesokg);
 console.log(pesoFloor);
 
 //Una variable que contenga si "el máximo valor que se puede obtener en Javascript + 1" es igual al máximo valor que se puede obtener en Javascript
+let maxValue = Number.MAX_VALUE + 1 === Number.MAX_VALUE
+console.log(maxValue);
 
 
 
